@@ -1,0 +1,11 @@
+date,cat1,{url}
+2022-11-26,1,http://127.0.0.1:5500/data/sample-1.csv
+2022-11-25,1,http://127.0.0.1:5500/data/sample-1.csv
+2022-11-24,1,http://127.0.0.1:5500/data/sample-1.csv
+2022-11-27,2,http://127.0.0.1:5500/data/sample-2.csv
+2022-11-26,2,http://127.0.0.1:5500/data/sample-2.csv
+2022-11-28,2,http://127.0.0.1:5500/data/sample-2.csv
+2022-11-28,3,http://127.0.0.1:5500/data/sample-3.csv
+2022-11-29,3,http://127.0.0.1:5500/data/sample-3.csv
+2022-11-30,3,http://127.0.0.1:5500/data/sample-3.csv
+2022-11-35,3,http://127.0.0.1:5500/data/sample-3.csv
